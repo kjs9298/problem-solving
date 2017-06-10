@@ -20,7 +20,6 @@ int solution(int N) {
 		for (int j = 1; j <= i ; ++j) {
 			asc[i][j] = desc[i - 1][j - 1];
 			asc[i][j] += (asc[i][j-1]) % MOD;
-			
 		}		
 		
 		for (int j = 1; j <= i ; ++j) {

@@ -22,7 +22,7 @@
     <Text Include="input.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="boj_11966.cpp" />
+    <ClCompile Include="boj2986_.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{E22E1C17-EE3B-4508-B6AA-36E596F883B3}</ProjectGuid>
